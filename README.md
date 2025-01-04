@@ -5,6 +5,6 @@
 - 프로그래머스: PG_문제번호
 
 ## ✏️ Solved List(BAEKJOON)
-|Week|Algorithm|Question1|Question2|Question3|Question4|Question5|Question6|
-|------|---|---|---|---|---|---|---|
-|2025.01.05|해시|[수 찾기](https://www.acmicpc.net/problem/1920)|[IOIOI](https://www.acmicpc.net/problem/5525)|[찾기](https://www.acmicpc.net/problem/1786)|[가장 긴 문자열](https://www.acmicpc.net/problem/3033)|[돌연변이](https://www.acmicpc.net/problem/10256)|[빅 픽쳐](https://www.acmicpc.net/problem/10538)|
+|Week|Algorithm|Blog|Question1|Question2|Question3|Question4|Question5|Question6|
+|------|---|---|---|---|---|---|---|---|
+|2025.01.05|해시|[🙆](https://pang1124.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-HashMap%ED%95%B4%EC%8B%9C%EB%A7%B5-HashSet%ED%95%B4%EC%8B%9C%EC%85%8B)|[수 찾기](https://www.acmicpc.net/problem/1920)|[IOIOI](https://www.acmicpc.net/problem/5525)|[찾기](https://www.acmicpc.net/problem/1786)|[가장 긴 문자열](https://www.acmicpc.net/problem/3033)|[돌연변이](https://www.acmicpc.net/problem/10256)|[빅 픽쳐](https://www.acmicpc.net/problem/10538)|
