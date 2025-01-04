@@ -1,4 +1,4 @@
-package DevCourse.DevCourse20241223.Cunstructor.ArrayList;
+package Java.DevCourse20241223.Cunstructor.ArrayList;
 
 import java.util.ArrayList;
 

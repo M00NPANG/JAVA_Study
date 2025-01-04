@@ -1,4 +1,4 @@
-package DevCourse.DevCourse20241220;
+package Java.DevCourse20241220;
 
 public class Casting {
     public static void main(String[] args) {
