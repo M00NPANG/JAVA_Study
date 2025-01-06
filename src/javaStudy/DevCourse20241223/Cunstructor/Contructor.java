@@ -1,4 +1,4 @@
-package Java.DevCourse20241223.Cunstructor;
+package javaStudy.DevCourse20241223.Cunstructor;
 
 public class Contructor {
     public static void main(String[] args) {

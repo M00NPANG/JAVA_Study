@@ -1,4 +1,4 @@
-package Java.DevCourse20241223.Cunstructor.access;
+package javaStudy.DevCourse20241223.Cunstructor.access;
 
 public class AccessModifior {
     public static void main(String[] args) {
