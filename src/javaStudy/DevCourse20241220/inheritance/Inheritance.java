@@ -1,4 +1,4 @@
-package Java.DevCourse20241220.inheritance;
+package javaStudy.DevCourse20241220.inheritance;
 
 public class Inheritance {
     public static void main(String[] args) {

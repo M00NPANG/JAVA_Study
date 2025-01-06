@@ -1,4 +1,4 @@
-package Java.DevCourse20241220.Test;
+package javaStudy.DevCourse20241220.Test;
 
 public class Game {
     public static void main(String[] args) {

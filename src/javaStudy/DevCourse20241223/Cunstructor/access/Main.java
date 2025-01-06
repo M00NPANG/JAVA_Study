@@ -1,4 +1,4 @@
-package Java.DevCourse20241223.Cunstructor.access;
+package javaStudy.DevCourse20241223.Cunstructor.access;
 
 // 문제 : 사람의 id를 출력해주세요.
 // 조건 : 사람의 id를 20으로 설정해주세요.

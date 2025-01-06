@@ -1,4 +1,4 @@
-package Java.DevCourse20241220.composition;
+package javaStudy.DevCourse20241220.composition;
 
 public class Main {
     public static void main(String[] args) {

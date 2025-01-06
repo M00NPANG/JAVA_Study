@@ -1,4 +1,4 @@
-package Java.DevCourse20241220;
+package javaStudy.DevCourse20241220;
 
 public class Static {
     public static void main(String[] args) {
